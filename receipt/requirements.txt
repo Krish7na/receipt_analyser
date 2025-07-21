@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+requests
+python-multipart
+streamlit
+pandas
+altair
+pdf2image
+pytesseract
+Pillow
+openai
+python-dotenv
+alembic
+easyocr 
